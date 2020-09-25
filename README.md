@@ -1,4 +1,4 @@
-﻿# ADM-MANAGER-DANKELTHAHER
+﻿# MANAGER-DAN
 
 **Manager Script Repositorio**
 
