@@ -159,7 +159,7 @@ echo -e "http_port $pts" >> $var_squid
 done
 echo -e "
 #nome
-visible_hostname ADM-MANAGER
+visible_hostname DANFORCE-MANAGER
 
 via off
 forwarded_for off
@@ -185,7 +185,7 @@ echo -e "http_port $pts" >> $var_squid
 done
 echo -e "
 #nome
-visible_hostname ADM-MANAGER
+visible_hostname DANFORCE-MANAGER
 
 via off
 forwarded_for off
